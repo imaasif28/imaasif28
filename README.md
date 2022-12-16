@@ -2,7 +2,7 @@
   <span>Hi there, I'm AASIF</span> 
 </h3>
 
- Visitor's Count ->
+* Visitor's Count :
 *  ![Visitor Count](https://profile-counter.glitch.me/AASIF/count.svg)
 
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaasif28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
